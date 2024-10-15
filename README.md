@@ -1,18 +1,5 @@
 # Bike-Management-System-Project-in-PHP
 
-For User :-
+This final-year project integrates a rule-based Expert System methodology into the template to create a Diagnostic system for faults encountered by bike owners. 
 
-USERNAME : test@gmail.com
-
-PASSWORD : 123456
-
-For Admin Panel
-
-Open Your browser put inside browser “http://localhost/bikerental/admin”
-
-USERNAME : admin
-
-PASSWORD : 123456
-
-DON'T FORGET TO CREATE A DATABASE NAMING "bikerental.sql" AND IMPORT THE SQL FILE AND RUN.
-WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+The project uses PHP to build logics and create a Web App.
